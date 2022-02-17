@@ -1,0 +1,24 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#b666d2",
+    "editor.background": "#040000",
+    "sideBar.background": "#040000",
+    "statusBar.foreground": "#fff",
+    "activityBar.foreground": "#77D970",
+    "activityBar.background": "#040000",
+    "activityBar.border": "#3EDBF0",
+    "activityBar.activeBorder": "#DBE8D8",
+    "list.activeSelectionForeground": "#28FFBF",
+    "tab.activeBackground": "#040000",
+    "tab.inactiveBackground": "#040000",
+    "titleBar.activeBackground": "#040000",
+    "editorGroupHeader.tabsBackground": "#040000",
+    "menubar.selectionBackground": "#040000",
+    "menu.background": "#040000",
+    "editor.lineHighlightBackground": "#240529"
+  },
+  "workbench.colorTheme": "Panda Syntax",
+  "editor.tokenColorCustomizations": {}
+}
