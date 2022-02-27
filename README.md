@@ -1,11 +1,13 @@
 
 
 
-#Netflix clone using 
+# Netflix clone using Reactjs
 
 
-frontEnd:vanilla react and styled components
-backend:firebase
+**FrontEnd🖥** : vanilla react ⚛️ and styled components 💅
+
+
+**backend🎚**:firebase🔥
 
 
 [live app](https://clonenetflix0105.netlify.app)
