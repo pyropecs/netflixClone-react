@@ -9,8 +9,9 @@
 
 **backend🎚**:firebase🔥
 
+click down  the link for the netflix clone  
 
-[live app](https://clonenetflix0105.netlify.app)
+[netflix clone](https://clonenetflix0105.netlify.app)
 
 i will try my best to update this app as netflix changes:)
 bootstrapped  using create react app and more features coming soon....
