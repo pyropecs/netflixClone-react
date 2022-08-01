@@ -11,7 +11,7 @@
 
 click down  the link for the netflix clone  
 
-<h1> [Netflix Clone](https://clonenetflix0105.netlify.app) </h2>
+https://clonenetflix0105.netlify.app) 
 
 i will try my best to update this app as netflix changes:)
 bootstrapped  using create react app and more features coming soon....
